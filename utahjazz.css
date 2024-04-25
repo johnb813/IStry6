@@ -1,0 +1,27 @@
+body {background-color: rgb(68, 133, 255);}
+
+ol {
+    border: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(163, 255, 176);
+}
+
+.name {
+    font-size: larger;
+}
+
+li {
+    font-size: medium;
+}
+
+.footer4 {
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+}
+
+.john {
+    font-weight: 400;
+}
